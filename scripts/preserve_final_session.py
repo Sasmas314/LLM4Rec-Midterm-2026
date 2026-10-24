@@ -28,13 +28,15 @@ def main():
             for line in data.splitlines()[-100:]:
                 try: rows.append(json.loads(line))
                 except json.JSONDecodeError: pass
-            events=[r.get('payload',{}).get('type') for r in rows if r.get('type')=='event_msg']
-            last_completed=max((i for i,e in enumerate(events) if e=='task_complete'),default=-1)
-            last_started=max((i for i,e in enumerate(events) if e=='task_started'),default=-1)
+            last_completed=max((i for i,r in enumerate(rows) if
+                (r.get('type')=='event_msg' and r.get('payload',{}).get('type')=='task_complete') or
+                (r.get('type')=='response_item' and r.get('payload',{}).get('type')=='message' and
+                 r.get('payload',{}).get('role')=='assistant' and r.get('payload',{}).get('channel')=='final')),default=-1)
+            last_started=max((i for i,r in enumerate(rows) if r.get('type')=='event_msg' and r.get('payload',{}).get('type')=='task_started'),default=-1)
             complete=last_completed>last_started and last_completed>=0
             if complete:
                 manifest['finalized_after_chat']=True
-                manifest['completion_evidence']='Native event_msg task_complete and at least 90 seconds of source stability'
+                manifest['completion_evidence']='Native task_complete or final assistant message, followed by at least 90 seconds of source stability'
                 (dest/'integrity_manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
                 return
         time.sleep(5)
