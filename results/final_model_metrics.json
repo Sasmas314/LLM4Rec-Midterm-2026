@@ -1,0 +1,239 @@
+{
+  "selected_model": "hybrid_c0_a0.15",
+  "configuration": {
+    "name": "hybrid_c0_a0.15",
+    "family": "hybrid",
+    "half_life": 28,
+    "history_days": 0,
+    "availability_power": 0.25,
+    "support": 2,
+    "confidence": 0.03,
+    "factors": 32,
+    "regularization": 0.1,
+    "content_weight": 0,
+    "association_weight": 0.15,
+    "als_weight": 0,
+    "channel_weight": 0,
+    "metadata_weight": 2,
+    "fusion": "score"
+  },
+  "selection": {
+    "selection_metric": "Unweighted mean standard MAP@5 on the two development splits",
+    "selected_model": "hybrid_c0_a0.15",
+    "development_ranking": [
+      {
+        "model": "hybrid_c0_a0.15",
+        "mean_map5": 0.4112289704446891
+      },
+      {
+        "model": "hybrid_c0.2_a0.2",
+        "mean_map5": 0.4106715364047864
+      },
+      {
+        "model": "hybrid_c0.1_a0.1",
+        "mean_map5": 0.4082151514384966
+      },
+      {
+        "model": "hybrid_raw",
+        "mean_map5": 0.40790595237951854
+      },
+      {
+        "model": "frequency",
+        "mean_map5": 0.40772725210330707
+      },
+      {
+        "model": "hybrid_channel",
+        "mean_map5": 0.4073000076691954
+      },
+      {
+        "model": "hybrid_als",
+        "mean_map5": 0.40625224504644303
+      },
+      {
+        "model": "last28_frequency",
+        "mean_map5": 0.40495712277497986
+      },
+      {
+        "model": "hybrid_c0.05_a0.05",
+        "mean_map5": 0.403836490752999
+      },
+      {
+        "model": "historical_frequency_unfiltered",
+        "mean_map5": 0.40131732479201837
+      },
+      {
+        "model": "rank_fusion",
+        "mean_map5": 0.39850845799790674
+      },
+      {
+        "model": "availability_p0.25",
+        "mean_map5": 0.3967097546941699
+      },
+      {
+        "model": "availability_p0.5",
+        "mean_map5": 0.3961998776944069
+      },
+      {
+        "model": "raw_availability_p0.25",
+        "mean_map5": 0.39494450474064663
+      },
+      {
+        "model": "raw_availability_p0.5",
+        "mean_map5": 0.3949052513106894
+      },
+      {
+        "model": "hybrid_c0.15_a0",
+        "mean_map5": 0.39367598574252516
+      },
+      {
+        "model": "recency_28d",
+        "mean_map5": 0.3933914947421847
+      },
+      {
+        "model": "recency_56d",
+        "mean_map5": 0.39202091321241717
+      },
+      {
+        "model": "raw_availability_p1.0",
+        "mean_map5": 0.38879815682339536
+      },
+      {
+        "model": "recency_14d",
+        "mean_map5": 0.3880678386481662
+      },
+      {
+        "model": "availability_p1.0",
+        "mean_map5": 0.38692384770343746
+      },
+      {
+        "model": "channel_time",
+        "mean_map5": 0.3768503559349734
+      },
+      {
+        "model": "recency_7d",
+        "mean_map5": 0.3630974594084762
+      },
+      {
+        "model": "association_s5_c0.1",
+        "mean_map5": 0.29790516136829664
+      },
+      {
+        "model": "association_s2_c0.03",
+        "mean_map5": 0.2974877041923193
+      },
+      {
+        "model": "association_s5_c0.03",
+        "mean_map5": 0.29666667670488
+      },
+      {
+        "model": "global_popularity",
+        "mean_map5": 0.2933857087159402
+      },
+      {
+        "model": "als_32_r0.1",
+        "mean_map5": 0.2827757246285155
+      },
+      {
+        "model": "content",
+        "mean_map5": 0.2656991434994739
+      },
+      {
+        "model": "als_64_r0.5",
+        "mean_map5": 0.26406308936860806
+      },
+      {
+        "model": "content_metadata4",
+        "mean_map5": 0.2501175695638158
+      }
+    ],
+    "audit_used_for_selection": false
+  },
+  "validation": [
+    {
+      "split": "dev_4w",
+      "role": "development",
+      "model": "hybrid_c0_a0.15",
+      "family": "hybrid",
+      "users": 1039,
+      "map5": 0.4220115495668913,
+      "recall5": 0.4833493743984607,
+      "precision5": 0.4833493743984607,
+      "ndcg5": 0.5504545163232035,
+      "ordered_agreement5": 0.18517805582290622,
+      "exact_ordered5": 0.0009624639076034649,
+      "graded_ndcg5": 0.5857558655767603,
+      "hitrate5": 0.9480269489894129,
+      "parameters": "{\"als_weight\": 0, \"association_weight\": 0.15, \"availability_power\": 0.25, \"channel_weight\": 0, \"confidence\": 0.03, \"content_weight\": 0, \"factors\": 32, \"family\": \"hybrid\", \"fusion\": \"score\", \"half_life\": 28, \"history_days\": 0, \"metadata_weight\": 2, \"name\": \"hybrid_c0_a0.15\", \"regularization\": 0.1, \"support\": 2}",
+      "training_and_scoring_seconds": 0.0295369999948889,
+      "inference_seconds": 0.06410049996338785,
+      "process_rss_mb": 898.2890625,
+      "new_component_cache_entries": 0,
+      "active_users_map5": 0.3984174523941577,
+      "candidate_label_coverage": 1.0
+    },
+    {
+      "split": "dev_2w",
+      "role": "development",
+      "model": "hybrid_c0_a0.15",
+      "family": "hybrid",
+      "users": 799,
+      "map5": 0.4004463913224868,
+      "recall5": 0.4693366708385484,
+      "precision5": 0.4693366708385484,
+      "ndcg5": 0.529632992517103,
+      "ordered_agreement5": 0.1749687108886112,
+      "exact_ordered5": 0.0,
+      "graded_ndcg5": 0.5703736352615519,
+      "hitrate5": 0.934918648310388,
+      "parameters": "{\"als_weight\": 0, \"association_weight\": 0.15, \"availability_power\": 0.25, \"channel_weight\": 0, \"confidence\": 0.03, \"content_weight\": 0, \"factors\": 32, \"family\": \"hybrid\", \"fusion\": \"score\", \"half_life\": 28, \"history_days\": 0, \"metadata_weight\": 2, \"name\": \"hybrid_c0_a0.15\", \"regularization\": 0.1, \"support\": 2}",
+      "training_and_scoring_seconds": 0.024734900041949004,
+      "inference_seconds": 0.048954600002616644,
+      "process_rss_mb": 786.3828125,
+      "new_component_cache_entries": 0,
+      "active_users_map5": 0.37275206210577405,
+      "candidate_label_coverage": 1.0
+    },
+    {
+      "split": "audit_12w",
+      "role": "audit",
+      "model": "hybrid_c0_a0.15",
+      "family": "hybrid",
+      "users": 1199,
+      "map5": 0.3955184876285791,
+      "recall5": 0.4580483736447044,
+      "precision5": 0.4580483736447044,
+      "ndcg5": 0.5210454945304168,
+      "ordered_agreement5": 0.1853211009174302,
+      "exact_ordered5": 0.0016680567139282735,
+      "graded_ndcg5": 0.5601314119010907,
+      "hitrate5": 0.9232693911592994,
+      "parameters": "{\"als_weight\": 0, \"association_weight\": 0.15, \"availability_power\": 0.25, \"channel_weight\": 0, \"confidence\": 0.03, \"content_weight\": 0, \"factors\": 32, \"family\": \"hybrid\", \"fusion\": \"score\", \"half_life\": 28, \"history_days\": 0, \"metadata_weight\": 2, \"name\": \"hybrid_c0_a0.15\", \"regularization\": 0.1, \"support\": 2}",
+      "training_and_scoring_seconds": 0.06324240000685677,
+      "inference_seconds": 0.15336469997419044,
+      "process_rss_mb": 976.484375,
+      "new_component_cache_entries": 0,
+      "active_users_map5": 0.3886987007168456,
+      "candidate_label_coverage": 1.0
+    }
+  ],
+  "submission": {
+    "rows": 1260,
+    "expected_rows": 1260,
+    "unique_users": 1260,
+    "exact_user_order": true,
+    "columns": [
+      "user_id",
+      "tv_show_id"
+    ],
+    "predictions_per_user": 5,
+    "zero_ids": 0,
+    "within_row_duplicate_ids": 0,
+    "out_of_future_schedule_ids": 0,
+    "encoding": "UTF-8",
+    "delimiter": ",",
+    "status": "PASS"
+  },
+  "submission_sha256": "c75a1dec6c10d211ebcaeb33b11337112afce9864c0550715485a486bfa2d2fe",
+  "kaggle_score": null,
+  "note": "Kaggle evidence is separate in external_evidence.json; offline MAP is not a Kaggle score."
+}

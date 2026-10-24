@@ -1,0 +1,13 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+*.nbc
+*.nbi
+.pytest_cache/
+session-export/*.jsonl
+session-export/*.json
+.env*
+kaggle.json
+reports/task_original.txt
+notebooks/

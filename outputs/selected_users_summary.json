@@ -1,0 +1,30 @@
+[
+  {
+    "case": "A",
+    "user_idx": 2326,
+    "user_id": "17749612088451113386",
+    "events": 569,
+    "unique_programs": 37,
+    "top1_views": 328,
+    "top5_views": 533,
+    "top1_share": 0.5764499121265377,
+    "top5_share": 0.9367311072056239,
+    "leading_channel": "Nickelodeon HD",
+    "leading_genre": "комедия",
+    "peak_broadcast_hour": 10
+  },
+  {
+    "case": "B",
+    "user_idx": 3219,
+    "user_id": "4328761455849723043",
+    "events": 310,
+    "unique_programs": 239,
+    "top1_views": 9,
+    "top5_views": 28,
+    "top1_share": 0.02903225806451613,
+    "top5_share": 0.09032258064516129,
+    "leading_channel": "ViP Comedy CEE",
+    "leading_genre": "боевик",
+    "peak_broadcast_hour": 15
+  }
+]

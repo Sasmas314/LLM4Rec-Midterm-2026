@@ -1,0 +1,238 @@
+{
+  "dataset11-30.csv": {
+    "rows": 5821987,
+    "columns": [
+      "user_id",
+      "vsetv_id",
+      "start_time",
+      "stop_time",
+      "duraton"
+    ],
+    "schema": {
+      "user_id": "String",
+      "vsetv_id": "Int64",
+      "start_time": "String",
+      "stop_time": "String",
+      "duraton": "Int64"
+    },
+    "missing": {
+      "user_id": 0,
+      "vsetv_id": 0,
+      "start_time": 0,
+      "stop_time": 0,
+      "duraton": 0
+    },
+    "duplicates": 17,
+    "replacement_characters": 0,
+    "user_id_unique": 4914,
+    "vsetv_id_unique": 202,
+    "start_min": "2020-03-09 00:00:02",
+    "start_max": "2020-07-26 23:58:42",
+    "invalid_start": 0
+  },
+  "export_arh_11-20-final.csv": {
+    "rows": 1074235,
+    "columns": [
+      "channel_id",
+      "channel_title",
+      "start_time",
+      "duration",
+      "tv_show_title",
+      "tv_show_id",
+      "tv_show_category",
+      "tv_show_genre_1",
+      "tv_show_genre_2",
+      "tv_show_genre_3",
+      "year_of_production",
+      "director",
+      "actors"
+    ],
+    "schema": {
+      "channel_id": "Int64",
+      "channel_title": "String",
+      "start_time": "String",
+      "duration": "Int64",
+      "tv_show_title": "String",
+      "tv_show_id": "Int64",
+      "tv_show_category": "String",
+      "tv_show_genre_1": "String",
+      "tv_show_genre_2": "String",
+      "tv_show_genre_3": "String",
+      "year_of_production": "String",
+      "director": "String",
+      "actors": "String"
+    },
+    "missing": {
+      "channel_id": 0,
+      "channel_title": 0,
+      "start_time": 0,
+      "duration": 0,
+      "tv_show_title": 0,
+      "tv_show_id": 0,
+      "tv_show_category": 0,
+      "tv_show_genre_1": 620089,
+      "tv_show_genre_2": 928009,
+      "tv_show_genre_3": 1054059,
+      "year_of_production": 959500,
+      "director": 974050,
+      "actors": 973861
+    },
+    "duplicates": 0,
+    "replacement_characters": 0,
+    "channel_id_unique": 400,
+    "tv_show_id_unique": 5848,
+    "start_min": "2020-03-08 23:00:00",
+    "start_max": "2020-05-18 11:45:00",
+    "invalid_start": 0,
+    "title_samples": [
+      "'Жизнь известных людей', 2 сезон.",
+      "'ТСН. Неделя'.",
+      "'Голос страны', 10 сезон, 8 эп. 'Бои'.",
+      "Т/с 'По праву любви', 1-8 с.",
+      "ТСН."
+    ]
+  },
+  "export_arh_21-30-final.csv": {
+    "rows": 1074394,
+    "columns": [
+      "channel_id",
+      "channel_title",
+      "start_time",
+      "duration",
+      "tv_show_title",
+      "tv_show_id",
+      "tv_show_category",
+      "tv_show_genre_1",
+      "tv_show_genre_2",
+      "tv_show_genre_3",
+      "year_of_production",
+      "director",
+      "actors"
+    ],
+    "schema": {
+      "channel_id": "Int64",
+      "channel_title": "String",
+      "start_time": "String",
+      "duration": "Int64",
+      "tv_show_title": "String",
+      "tv_show_id": "Int64",
+      "tv_show_category": "String",
+      "tv_show_genre_1": "String",
+      "tv_show_genre_2": "String",
+      "tv_show_genre_3": "String",
+      "year_of_production": "String",
+      "director": "String",
+      "actors": "String"
+    },
+    "missing": {
+      "channel_id": 0,
+      "channel_title": 0,
+      "start_time": 0,
+      "duration": 0,
+      "tv_show_title": 0,
+      "tv_show_id": 0,
+      "tv_show_category": 0,
+      "tv_show_genre_1": 616370,
+      "tv_show_genre_2": 924020,
+      "tv_show_genre_3": 1050668,
+      "year_of_production": 954382,
+      "director": 969487,
+      "actors": 968834
+    },
+    "duplicates": 0,
+    "replacement_characters": 0,
+    "channel_id_unique": 403,
+    "tv_show_id_unique": 6364,
+    "start_min": "2020-05-18 00:00:00",
+    "start_max": "2020-07-27 11:55:00",
+    "invalid_start": 0,
+    "title_samples": [
+      "'Завтрак с 1+1'. Информационно-развлекательная программа.",
+      "ТСН.",
+      "'Завтрак с 1+1'. Информационно-развлекательная программа.",
+      "ТСН.",
+      "'Завтрак с 1+1'. Информационно-развлекательная программа."
+    ]
+  },
+  "export_arh_31-42-final.csv": {
+    "rows": 1295378,
+    "columns": [
+      "channel_id",
+      "channel_title",
+      "start_time",
+      "duration",
+      "tv_show_title",
+      "tv_show_id",
+      "tv_show_category",
+      "tv_show_genre_1",
+      "tv_show_genre_2",
+      "tv_show_genre_3",
+      "year_of_production",
+      "director",
+      "actors"
+    ],
+    "schema": {
+      "channel_id": "Int64",
+      "channel_title": "String",
+      "start_time": "String",
+      "duration": "Int64",
+      "tv_show_title": "String",
+      "tv_show_id": "Int64",
+      "tv_show_category": "String",
+      "tv_show_genre_1": "String",
+      "tv_show_genre_2": "String",
+      "tv_show_genre_3": "String",
+      "year_of_production": "String",
+      "director": "String",
+      "actors": "String"
+    },
+    "missing": {
+      "channel_id": 0,
+      "channel_title": 0,
+      "start_time": 0,
+      "duration": 0,
+      "tv_show_title": 0,
+      "tv_show_id": 0,
+      "tv_show_category": 0,
+      "tv_show_genre_1": 737871,
+      "tv_show_genre_2": 1113598,
+      "tv_show_genre_3": 1266621,
+      "year_of_production": 1151706,
+      "director": 1170189,
+      "actors": 1169519
+    },
+    "duplicates": 0,
+    "replacement_characters": 0,
+    "channel_id_unique": 404,
+    "tv_show_id_unique": 6637,
+    "start_min": "2020-07-27 00:00:00",
+    "start_max": "2020-10-19 11:55:00",
+    "invalid_start": 0,
+    "title_samples": [
+      "'Завтрак с 1+1'. Информационно-развлекательная программа.",
+      "ТСН.",
+      "'Завтрак с 1+1'. Информационно-развлекательная программа.",
+      "ТСН.",
+      "'Завтрак с 1+1'. Информационно-развлекательная программа."
+    ]
+  },
+  "submission.csv": {
+    "rows": 1260,
+    "columns": [
+      "user_id",
+      "tv_show_id"
+    ],
+    "schema": {
+      "user_id": "String",
+      "tv_show_id": "String"
+    },
+    "missing": {
+      "user_id": 0,
+      "tv_show_id": 0
+    },
+    "duplicates": 0,
+    "replacement_characters": 0,
+    "user_id_unique": 1260,
+    "tv_show_id_unique": 1
+  }
+}

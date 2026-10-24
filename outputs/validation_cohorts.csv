@@ -1,0 +1,4 @@
+split,role,cutoff,end_exclusive,horizon_days,train_events,label_events,template_users,eligible_five_label_users,active_users,active_fewer_than_five_users,no_qualifying_validation_users,boundary_broadcasts_excluded
+dev_4w,development,2020-04-06,2020-05-04,28,125285,111720,1260,1039,1202,163,58,59
+dev_2w,development,2020-04-20,2020-05-04,14,182532,54516,1260,799,1145,346,115,60
+audit_12w,audit,2020-05-04,2020-07-27,84,237136,374493,1260,1199,1240,41,20,62

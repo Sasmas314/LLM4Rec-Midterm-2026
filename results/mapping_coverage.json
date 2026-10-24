@@ -1,0 +1,7 @@
+{
+  "denominator": "All merged user-channel viewing intervals, clipped at historical end",
+  "merged_intervals": 5441773,
+  "intervals_overlapping_valid_annotated_broadcasts": 2746573,
+  "mapping_coverage": 0.5047202446702573,
+  "note": "Any positive overlap before the 80% qualification rule. Zero-ID schedule rows are excluded."
+}

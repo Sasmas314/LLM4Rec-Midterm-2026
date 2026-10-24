@@ -1,0 +1,311 @@
+case,user_id,model,rank,tv_show_id,title,category,historical_qualifying_views,interpretation
+A,17749612088451113386,global_popularity,1,2400480,ТСН.,Инфо,1,popularity signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,global_popularity,2,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,popularity signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,global_popularity,3,240081,Факты.,Инфо,1,popularity signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,global_popularity,4,20088,'Завтрак с 1+1'. Информационно-развлекательная программа.,Развлечения,0,popularity signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,global_popularity,5,2400508,Сегодня.,Инфо,0,popularity signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,historical_frequency_unfiltered,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,unfiltered signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,historical_frequency_unfiltered,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,unfiltered signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,historical_frequency_unfiltered,3,12001734,М/с 'Волшебные покровители'.,Детям,57,unfiltered signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,historical_frequency_unfiltered,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,unfiltered signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,historical_frequency_unfiltered,5,10001336,"Т/с 'Кости', 5 сезон, 13 с. 'Дантист в траншее'.",Сериалы,5,unfiltered signal; 5 qualifying historical airings; repeat candidate
+A,17749612088451113386,frequency,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,frequency signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,frequency,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,frequency signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,frequency,3,12001734,М/с 'Волшебные покровители'.,Детям,57,frequency signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,frequency,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,frequency signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,frequency,5,10001336,"Т/с 'Кости', 5 сезон, 13 с. 'Дантист в траншее'.",Сериалы,5,frequency signal; 5 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_7d,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,frequency signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_7d,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,frequency signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_7d,3,12001734,М/с 'Волшебные покровители'.,Детям,57,frequency signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_7d,4,90074942,Х/ф 'Третий лишний'.,Фильмы,1,frequency signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_7d,5,2400467,'Викна-Новости'.,Инфо,1,frequency signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_14d,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,frequency signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_14d,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,frequency signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_14d,3,12001734,М/с 'Волшебные покровители'.,Детям,57,frequency signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_14d,4,90074942,Х/ф 'Третий лишний'.,Фильмы,1,frequency signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_14d,5,2400467,'Викна-Новости'.,Инфо,1,frequency signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_28d,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,frequency signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_28d,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,frequency signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_28d,3,12001734,М/с 'Волшебные покровители'.,Детям,57,frequency signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_28d,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,frequency signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_28d,5,400468,"Аферисты в сетях, 5 сезон, 1 эп.",Познавательное,2,frequency signal; 2 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_56d,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,frequency signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_56d,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,frequency signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_56d,3,12001734,М/с 'Волшебные покровители'.,Детям,57,frequency signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_56d,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,frequency signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,recency_56d,5,10001336,"Т/с 'Кости', 5 сезон, 13 с. 'Дантист в траншее'.",Сериалы,5,frequency signal; 5 qualifying historical airings; repeat candidate
+A,17749612088451113386,last28_frequency,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,frequency signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,last28_frequency,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,frequency signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,last28_frequency,3,12001734,М/с 'Волшебные покровители'.,Детям,57,frequency signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,last28_frequency,4,10001261,Т/с 'Мыслить как преступник'.,Сериалы,3,frequency signal; 3 qualifying historical airings; repeat candidate
+A,17749612088451113386,last28_frequency,5,2400467,'Викна-Новости'.,Инфо,1,frequency signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.25,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,availability signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.25,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,availability signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.25,3,12001734,М/с 'Волшебные покровители'.,Детям,57,availability signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.25,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,availability signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.25,5,400468,"Аферисты в сетях, 5 сезон, 1 эп.",Познавательное,2,availability signal; 2 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.5,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,availability signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.5,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,availability signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.5,3,12001734,М/с 'Волшебные покровители'.,Детям,57,availability signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.5,4,400468,"Аферисты в сетях, 5 сезон, 1 эп.",Познавательное,2,availability signal; 2 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p0.5,5,90077217,Х/ф 'Геракл: Начало легенды'.,Фильмы,1,availability signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p1.0,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,availability signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p1.0,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,availability signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p1.0,3,12001734,М/с 'Волшебные покровители'.,Детям,57,availability signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p1.0,4,90077217,Х/ф 'Геракл: Начало легенды'.,Фильмы,1,availability signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,availability_p1.0,5,90074942,Х/ф 'Третий лишний'.,Фильмы,1,availability signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.25,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,availability signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.25,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,availability signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.25,3,12001734,М/с 'Волшебные покровители'.,Детям,57,availability signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.25,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,availability signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.25,5,10001336,"Т/с 'Кости', 5 сезон, 13 с. 'Дантист в траншее'.",Сериалы,5,availability signal; 5 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.5,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,availability signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.5,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,availability signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.5,3,12001734,М/с 'Волшебные покровители'.,Детям,57,availability signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.5,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,availability signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p0.5,5,10001336,"Т/с 'Кости', 5 сезон, 13 с. 'Дантист в траншее'.",Сериалы,5,availability signal; 5 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p1.0,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,availability signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p1.0,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,availability signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p1.0,3,12001734,М/с 'Волшебные покровители'.,Детям,57,availability signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p1.0,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,availability signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,raw_availability_p1.0,5,10001336,"Т/с 'Кости', 5 сезон, 13 с. 'Дантист в траншее'.",Сериалы,5,availability signal; 5 qualifying historical airings; repeat candidate
+A,17749612088451113386,channel_time,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,channel signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,channel_time,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,channel signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,channel_time,3,12001734,М/с 'Волшебные покровители'.,Детям,57,channel signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,channel_time,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,channel signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,channel_time,5,12002355,М/с 'Кунг-фу панда: Удивительные легенды'.,Детям,0,channel signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,content,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,content signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,content,2,120078041,М/ф 'Железяки'.,Детям,0,content signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,content,3,12001734,М/с 'Волшебные покровители'.,Детям,57,content signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,content,4,12002378,М/с 'Удивительный мир Гамбола'.,Детям,0,content signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,content,5,12001820,М/с 'Котопёс'.,Детям,0,content signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,content_metadata4,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,content signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,content_metadata4,2,120078041,М/ф 'Железяки'.,Детям,0,content signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,content_metadata4,3,12001734,М/с 'Волшебные покровители'.,Детям,57,content signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,content_metadata4,4,12002378,М/с 'Удивительный мир Гамбола'.,Детям,0,content signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,content_metadata4,5,12001820,М/с 'Котопёс'.,Детям,0,content signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,association_s2_c0.03,1,2400480,ТСН.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s2_c0.03,2,240081,Факты.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s2_c0.03,3,2400467,'Викна-Новости'.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s2_c0.03,4,2400508,Сегодня.,Инфо,0,association signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,association_s2_c0.03,5,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,association signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.03,1,2400480,ТСН.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.03,2,240081,Факты.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.03,3,2400467,'Викна-Новости'.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.03,4,2400508,Сегодня.,Инфо,0,association signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,association_s5_c0.03,5,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,association signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.1,1,2400480,ТСН.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.1,2,240081,Факты.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.1,3,2400467,'Викна-Новости'.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,association_s5_c0.1,4,2400508,Сегодня.,Инфо,0,association signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,association_s5_c0.1,5,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,association signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_32_r0.1,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,als signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_32_r0.1,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,als signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_32_r0.1,3,12001734,М/с 'Волшебные покровители'.,Детям,57,als signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_32_r0.1,4,400468,"Аферисты в сетях, 5 сезон, 1 эп.",Познавательное,2,als signal; 2 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_32_r0.1,5,240081,Факты.,Инфо,1,als signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_64_r0.5,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,als signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_64_r0.5,2,6200371,ДжеДАИ.,Познавательное,1,als signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_64_r0.5,3,10001261,Т/с 'Мыслить как преступник'.,Сериалы,3,als signal; 3 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_64_r0.5,4,240081,Факты.,Инфо,1,als signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,als_64_r0.5,5,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,als signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.05_a0.05,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.05_a0.05,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.05_a0.05,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.05_a0.05,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,hybrid signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.05_a0.05,5,12002955,М/с 'Свинка Пеппа'.,Детям,0,hybrid signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,hybrid_c0.1_a0.1,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.1_a0.1,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.1_a0.1,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.1_a0.1,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,hybrid signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.1_a0.1,5,12002955,М/с 'Свинка Пеппа'.,Детям,0,hybrid signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,hybrid_c0.2_a0.2,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.2_a0.2,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.2_a0.2,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.2_a0.2,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,hybrid signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.2_a0.2,5,12002955,М/с 'Свинка Пеппа'.,Детям,0,hybrid signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,hybrid_c0_a0.15,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0_a0.15,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0_a0.15,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0_a0.15,4,2400480,ТСН.,Инфо,1,hybrid signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0_a0.15,5,240081,Факты.,Инфо,1,hybrid signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.15_a0,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.15_a0,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.15_a0,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_c0.15_a0,4,120078041,М/ф 'Железяки'.,Детям,0,hybrid signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,hybrid_c0.15_a0,5,12002378,М/с 'Удивительный мир Гамбола'.,Детям,0,hybrid signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,hybrid_als,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_als,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_als,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_als,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,hybrid signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_als,5,240081,Факты.,Инфо,1,hybrid signal; 1 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_raw,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_raw,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_raw,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_raw,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,hybrid signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_raw,5,12002955,М/с 'Свинка Пеппа'.,Детям,0,hybrid signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,hybrid_channel,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_channel,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_channel,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_channel,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,hybrid signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,hybrid_channel,5,12002955,М/с 'Свинка Пеппа'.,Детям,0,hybrid signal; 0 qualifying historical airings; discovery candidate
+A,17749612088451113386,rank_fusion,1,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,328,hybrid signal; 328 qualifying historical airings; repeat candidate
+A,17749612088451113386,rank_fusion,2,12002856,М/с 'Элвиннн!!! и бурундуки'.,Детям,132,hybrid signal; 132 qualifying historical airings; repeat candidate
+A,17749612088451113386,rank_fusion,3,12001734,М/с 'Волшебные покровители'.,Детям,57,hybrid signal; 57 qualifying historical airings; repeat candidate
+A,17749612088451113386,rank_fusion,4,12001732,М/с 'Пингвины из 'Мадагаскара'.,Детям,11,hybrid signal; 11 qualifying historical airings; repeat candidate
+A,17749612088451113386,rank_fusion,5,400468,"Аферисты в сетях, 5 сезон, 1 эп.",Познавательное,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,global_popularity,1,2400480,ТСН.,Инфо,2,popularity signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,global_popularity,2,12001682,М/с 'Губка Боб Квадратные Штаны'.,Детям,1,popularity signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,global_popularity,3,240081,Факты.,Инфо,9,popularity signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,global_popularity,4,20088,'Завтрак с 1+1'. Информационно-развлекательная программа.,Развлечения,2,popularity signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,global_popularity,5,2400508,Сегодня.,Инфо,4,popularity signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,historical_frequency_unfiltered,1,240081,Факты.,Инфо,9,unfiltered signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,historical_frequency_unfiltered,2,200337,Утро с Интером.,Развлечения,6,unfiltered signal; 6 qualifying historical airings; repeat candidate
+B,4328761455849723043,historical_frequency_unfiltered,3,10001400,"Т/с 'Доктор Кто', 12 сезон, 3 с. 'Сирота-55'.",Сериалы,5,unfiltered signal; 5 qualifying historical airings; repeat candidate
+B,4328761455849723043,historical_frequency_unfiltered,4,2400508,Сегодня.,Инфо,4,unfiltered signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,historical_frequency_unfiltered,5,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,unfiltered signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,frequency,1,240081,Факты.,Инфо,9,frequency signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,frequency,2,200337,Утро с Интером.,Развлечения,6,frequency signal; 6 qualifying historical airings; repeat candidate
+B,4328761455849723043,frequency,3,10001400,"Т/с 'Доктор Кто', 12 сезон, 3 с. 'Сирота-55'.",Сериалы,5,frequency signal; 5 qualifying historical airings; repeat candidate
+B,4328761455849723043,frequency,4,2400508,Сегодня.,Инфо,4,frequency signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,frequency,5,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,frequency signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_7d,1,6600437,Хи и Ха.,Развлечения,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_7d,2,20088,'Завтрак с 1+1'. Информационно-развлекательная программа.,Развлечения,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_7d,3,2400480,ТСН.,Инфо,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_7d,4,90081338,Х/ф 'Анон'.,Фильмы,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_7d,5,200393,'Бойцовский клуб'.,Развлечения,1,frequency signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_14d,1,6600437,Хи и Ха.,Развлечения,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_14d,2,240081,Факты.,Инфо,9,frequency signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_14d,3,20088,'Завтрак с 1+1'. Информационно-развлекательная программа.,Развлечения,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_14d,4,2400480,ТСН.,Инфо,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_14d,5,90081338,Х/ф 'Анон'.,Фильмы,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_28d,1,240081,Факты.,Инфо,9,frequency signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_28d,2,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,frequency signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_28d,3,6600437,Хи и Ха.,Развлечения,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_28d,4,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,frequency signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_28d,5,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,frequency signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_56d,1,240081,Факты.,Инфо,9,frequency signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_56d,2,10001400,"Т/с 'Доктор Кто', 12 сезон, 3 с. 'Сирота-55'.",Сериалы,5,frequency signal; 5 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_56d,3,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,frequency signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_56d,4,200337,Утро с Интером.,Развлечения,6,frequency signal; 6 qualifying historical airings; repeat candidate
+B,4328761455849723043,recency_56d,5,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,frequency signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,last28_frequency,1,240081,Факты.,Инфо,9,frequency signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,last28_frequency,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,frequency signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,last28_frequency,3,2400480,ТСН.,Инфо,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,last28_frequency,4,20088,'Завтрак с 1+1'. Информационно-развлекательная программа.,Развлечения,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,last28_frequency,5,700389,Кто сверху?,Развлечения,2,frequency signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.25,1,240081,Факты.,Инфо,9,availability signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.25,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.25,3,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,availability signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.25,4,6600437,Хи и Ха.,Развлечения,2,availability signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.25,5,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.5,1,240081,Факты.,Инфо,9,availability signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.5,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.5,3,90028096,Х/ф 'Детсадовский полицейский'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.5,4,6600437,Хи и Ха.,Развлечения,2,availability signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p0.5,5,90073240,Х/ф 'Лица в толпе'.,Фильмы,1,availability signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p1.0,1,90073240,Х/ф 'Лица в толпе'.,Фильмы,1,availability signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p1.0,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p1.0,3,240081,Факты.,Инфо,9,availability signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p1.0,4,90067364,Х/ф 'Остров Ним'.,Фильмы,1,availability signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,availability_p1.0,5,90028096,Х/ф 'Детсадовский полицейский'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.25,1,240081,Факты.,Инфо,9,availability signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.25,2,200337,Утро с Интером.,Развлечения,6,availability signal; 6 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.25,3,10001400,"Т/с 'Доктор Кто', 12 сезон, 3 с. 'Сирота-55'.",Сериалы,5,availability signal; 5 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.25,4,2400508,Сегодня.,Инфо,4,availability signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.25,5,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,availability signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.5,1,240081,Факты.,Инфо,9,availability signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.5,2,200337,Утро с Интером.,Развлечения,6,availability signal; 6 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.5,3,10001400,"Т/с 'Доктор Кто', 12 сезон, 3 с. 'Сирота-55'.",Сериалы,5,availability signal; 5 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.5,4,400356,'Я стесняюсь своего тела. Украина'.,Познавательное,2,availability signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p0.5,5,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p1.0,1,240081,Факты.,Инфо,9,availability signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p1.0,2,400356,'Я стесняюсь своего тела. Украина'.,Познавательное,2,availability signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p1.0,3,90081679,Х/ф 'Могучие рейнджеры'.,Фильмы,1,availability signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p1.0,4,200337,Утро с Интером.,Развлечения,6,availability signal; 6 qualifying historical airings; repeat candidate
+B,4328761455849723043,raw_availability_p1.0,5,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,availability signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,channel_time,1,240081,Факты.,Инфо,9,channel signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,channel_time,2,2400480,ТСН.,Инфо,2,channel signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,channel_time,3,20088,'Завтрак с 1+1'. Информационно-развлекательная программа.,Развлечения,2,channel signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,channel_time,4,10002233,"Т/с 'Правосудие', 3 сезон, 7 с. 'Человек за шторой'.",Сериалы,0,channel signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,channel_time,5,90044218,Х/ф 'Чего хотят женщины'.,Фильмы,2,channel signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,content,1,90014009,Х/ф 'Спина к спине'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content,2,90049583,Х/ф 'Шафт'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content,3,90050940,Х/ф 'Сават'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content,4,90076845,Х/ф 'Спираль'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content,5,90074210,Х/ф 'Фрираннер'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content_metadata4,1,90014009,Х/ф 'Спина к спине'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content_metadata4,2,90049583,Х/ф 'Шафт'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content_metadata4,3,90050940,Х/ф 'Сават'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content_metadata4,4,90076845,Х/ф 'Спираль'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,content_metadata4,5,90074210,Х/ф 'Фрираннер'.,Фильмы,0,content signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,association_s2_c0.03,1,2400480,ТСН.,Инфо,2,association signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s2_c0.03,2,240081,Факты.,Инфо,9,association signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s2_c0.03,3,200469,Варьяты. Лучшее.,Развлечения,2,association signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s2_c0.03,4,6700482,Секретные материалы.,Другое,0,association signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,association_s2_c0.03,5,5900347,'Деньги'.,Инфо,1,association signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s5_c0.03,1,2400480,ТСН.,Инфо,2,association signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s5_c0.03,2,240081,Факты.,Инфо,9,association signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s5_c0.03,3,200469,Варьяты. Лучшее.,Развлечения,2,association signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s5_c0.03,4,6700482,Секретные материалы.,Другое,0,association signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,association_s5_c0.03,5,10002514,Т/с 'Кухня'.,Сериалы,0,association signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,association_s5_c0.1,1,2400480,ТСН.,Инфо,2,association signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s5_c0.1,2,240081,Факты.,Инфо,9,association signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s5_c0.1,3,200469,Варьяты. Лучшее.,Развлечения,2,association signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,association_s5_c0.1,4,6700482,Секретные материалы.,Другое,0,association signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,association_s5_c0.1,5,10002514,Т/с 'Кухня'.,Сериалы,0,association signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,als_32_r0.1,1,1100411,'Вещдок'.,Познавательное,1,als signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_32_r0.1,2,10002454,"Т/с 'Гримм', 1 сезон, 15 с.",Сериалы,0,als signal; 0 qualifying historical airings; discovery candidate
+B,4328761455849723043,als_32_r0.1,3,2500415,'Месть природы'.,Инфо,1,als signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_32_r0.1,4,90074576,Х/ф 'Призрачный гонщик 2'.,Фильмы,1,als signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_32_r0.1,5,90081719,Х/ф 'Патрик'.,Фильмы,2,als signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_64_r0.5,1,500315,Ток-шоу 'Касается каждого'.,Развлечения,2,als signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_64_r0.5,2,90074576,Х/ф 'Призрачный гонщик 2'.,Фильмы,1,als signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_64_r0.5,3,2500415,'Месть природы'.,Инфо,1,als signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_64_r0.5,4,90072572,Х/ф 'Зелёный Шершень'.,Фильмы,2,als signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,als_64_r0.5,5,10003102,"Т/с 'Опер по вызову', 4 сезон, 24 с.",Сериалы,1,als signal; 1 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.05_a0.05,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.05_a0.05,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.05_a0.05,3,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.05_a0.05,4,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.05_a0.05,5,6600437,Хи и Ха.,Развлечения,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.1_a0.1,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.1_a0.1,2,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.1_a0.1,3,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.1_a0.1,4,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.1_a0.1,5,2400480,ТСН.,Инфо,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.2_a0.2,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.2_a0.2,2,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.2_a0.2,3,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.2_a0.2,4,2400480,ТСН.,Инфо,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.2_a0.2,5,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0_a0.15,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0_a0.15,2,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0_a0.15,3,2400480,ТСН.,Инфо,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0_a0.15,4,20088,'Завтрак с 1+1'. Информационно-развлекательная программа.,Развлечения,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0_a0.15,5,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.15_a0,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.15_a0,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.15_a0,3,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.15_a0,4,90028096,Х/ф 'Детсадовский полицейский'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_c0.15_a0,5,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_als,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_als,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_als,3,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_als,4,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_als,5,2400480,ТСН.,Инфо,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_raw,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_raw,2,200337,Утро с Интером.,Развлечения,6,hybrid signal; 6 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_raw,3,10001400,"Т/с 'Доктор Кто', 12 сезон, 3 с. 'Сирота-55'.",Сериалы,5,hybrid signal; 5 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_raw,4,2400508,Сегодня.,Инфо,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_raw,5,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_channel,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_channel,2,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_channel,3,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_channel,4,2400480,ТСН.,Инфо,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,hybrid_channel,5,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,rank_fusion,1,240081,Факты.,Инфо,9,hybrid signal; 9 qualifying historical airings; repeat candidate
+B,4328761455849723043,rank_fusion,2,10001261,Т/с 'Мыслить как преступник'.,Сериалы,4,hybrid signal; 4 qualifying historical airings; repeat candidate
+B,4328761455849723043,rank_fusion,3,6600437,Хи и Ха.,Развлечения,2,hybrid signal; 2 qualifying historical airings; repeat candidate
+B,4328761455849723043,rank_fusion,4,90076410,Х/ф 'Игра Эндера'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate
+B,4328761455849723043,rank_fusion,5,90070747,Х/ф 'Затерянный мир'.,Фильмы,3,hybrid signal; 3 qualifying historical airings; repeat candidate

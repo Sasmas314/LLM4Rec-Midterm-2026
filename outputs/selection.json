@@ -1,0 +1,131 @@
+{
+  "selection_metric": "Unweighted mean standard MAP@5 on the two development splits",
+  "selected_model": "hybrid_c0_a0.15",
+  "development_ranking": [
+    {
+      "model": "hybrid_c0_a0.15",
+      "mean_map5": 0.4112289704446891
+    },
+    {
+      "model": "hybrid_c0.2_a0.2",
+      "mean_map5": 0.4106715364047864
+    },
+    {
+      "model": "hybrid_c0.1_a0.1",
+      "mean_map5": 0.4082151514384966
+    },
+    {
+      "model": "hybrid_raw",
+      "mean_map5": 0.40790595237951854
+    },
+    {
+      "model": "frequency",
+      "mean_map5": 0.40772725210330707
+    },
+    {
+      "model": "hybrid_channel",
+      "mean_map5": 0.4073000076691954
+    },
+    {
+      "model": "hybrid_als",
+      "mean_map5": 0.40625224504644303
+    },
+    {
+      "model": "last28_frequency",
+      "mean_map5": 0.40495712277497986
+    },
+    {
+      "model": "hybrid_c0.05_a0.05",
+      "mean_map5": 0.403836490752999
+    },
+    {
+      "model": "historical_frequency_unfiltered",
+      "mean_map5": 0.40131732479201837
+    },
+    {
+      "model": "rank_fusion",
+      "mean_map5": 0.39850845799790674
+    },
+    {
+      "model": "availability_p0.25",
+      "mean_map5": 0.3967097546941699
+    },
+    {
+      "model": "availability_p0.5",
+      "mean_map5": 0.3961998776944069
+    },
+    {
+      "model": "raw_availability_p0.25",
+      "mean_map5": 0.39494450474064663
+    },
+    {
+      "model": "raw_availability_p0.5",
+      "mean_map5": 0.3949052513106894
+    },
+    {
+      "model": "hybrid_c0.15_a0",
+      "mean_map5": 0.39367598574252516
+    },
+    {
+      "model": "recency_28d",
+      "mean_map5": 0.3933914947421847
+    },
+    {
+      "model": "recency_56d",
+      "mean_map5": 0.39202091321241717
+    },
+    {
+      "model": "raw_availability_p1.0",
+      "mean_map5": 0.38879815682339536
+    },
+    {
+      "model": "recency_14d",
+      "mean_map5": 0.3880678386481662
+    },
+    {
+      "model": "availability_p1.0",
+      "mean_map5": 0.38692384770343746
+    },
+    {
+      "model": "channel_time",
+      "mean_map5": 0.3768503559349734
+    },
+    {
+      "model": "recency_7d",
+      "mean_map5": 0.3630974594084762
+    },
+    {
+      "model": "association_s5_c0.1",
+      "mean_map5": 0.29790516136829664
+    },
+    {
+      "model": "association_s2_c0.03",
+      "mean_map5": 0.2974877041923193
+    },
+    {
+      "model": "association_s5_c0.03",
+      "mean_map5": 0.29666667670488
+    },
+    {
+      "model": "global_popularity",
+      "mean_map5": 0.2933857087159402
+    },
+    {
+      "model": "als_32_r0.1",
+      "mean_map5": 0.2827757246285155
+    },
+    {
+      "model": "content",
+      "mean_map5": 0.2656991434994739
+    },
+    {
+      "model": "als_64_r0.5",
+      "mean_map5": 0.26406308936860806
+    },
+    {
+      "model": "content_metadata4",
+      "mean_map5": 0.2501175695638158
+    }
+  ],
+  "audit_used_for_selection": false
+}

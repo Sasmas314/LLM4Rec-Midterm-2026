@@ -1,0 +1,15 @@
+name: hybrid_c0_a0.15
+family: hybrid
+half_life: 28
+history_days: 0
+availability_power: 0.25
+support: 2
+confidence: 0.03
+factors: 32
+regularization: 0.1
+content_weight: 0
+association_weight: 0.15
+als_weight: 0
+channel_weight: 0
+metadata_weight: 2
+fusion: score
