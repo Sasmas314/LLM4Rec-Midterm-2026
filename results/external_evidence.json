@@ -1,9 +1,24 @@
 {
   "github_url": "https://github.com/Sasmas314/LLM4Rec-Midterm-2026",
+  "github_verified": true,
   "kaggle": {
-    "status": "Validated CSV ready. Browser upload blocked until extension file URL access is enabled.",
+    "status": "Existing successful late submission verified against the final CSV by download and SHA-256; no new attempt used. Description updated and saved.",
     "account": "Sasmas314",
     "student": "Александр Иванов",
-    "private_score": null
+    "private_score": 0.37484,
+    "public_score": 0.38323,
+    "submission_id": null,
+    "submission_id_note": "Numeric ID is not exposed in the visible Submission Details interface.",
+    "filename": "submission.csv",
+    "submission_display_date": "2 days ago on 24 October 2026",
+    "designated_final": true,
+    "platform_selected": false,
+    "selection_status": "Kaggle disables Select for final score for this late submission. The course designation FINAL is saved in its description; no claim of a selected platform checkbox is made.",
+    "description": "Александр Иванов | Sasmas314 | LLM4Rec Midterm FINAL | hybrid_c0_a0.15 | Reproduced 24 Oct 2026. Exact scored file SHA256 c75a1dec6c10d211ebcaeb33b11337112afce9864c0550715485a486bfa2d2fe. Private 0.37484.",
+    "verification": "Downloaded the scored submission.csv from Kaggle Submission Details on 24 October 2026. Its 76,545 bytes and SHA-256 c75a1dec6c10d211ebcaeb33b11337112afce9864c0550715485a486bfa2d2fe exactly match the repository final CSV. This is the highest successful private score visible for this account in this competition.",
+    "sha256": "c75a1dec6c10d211ebcaeb33b11337112afce9864c0550715485a486bfa2d2fe",
+    "downloaded_file_sha256": "c75a1dec6c10d211ebcaeb33b11337112afce9864c0550715485a486bfa2d2fe",
+    "bytes": 76545,
+    "screenshot": "reports/figures/kaggle_private_score.jpg"
   }
 }

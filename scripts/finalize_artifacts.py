@@ -83,7 +83,9 @@ def main():
     digest=hashlib.sha256((ROOT/'submission.csv').read_bytes()).hexdigest()
     save_json(original,{'status':'PASS','independent_map_rows':checked,'same_candidate_validation':True,'diagnostic_exception':'historical_frequency_unfiltered','two_user_rows':cases.height,'all_configuration_case_rows':len(all_cases),'metadata_verified':True,'submission':summary,'submission_sha256':digest})
     selected=results.filter(pl.col('model')==model).to_dicts()
-    save_json(res/'final_model_metrics.json',{'selected_model':model,'configuration':config,'selection':selection,'validation':selected,'submission':summary,'submission_sha256':digest,'kaggle_score':None,'note':'Kaggle evidence is separate in external_evidence.json; offline MAP is not a Kaggle score.'})
+    external=res/'external_evidence.json'
+    evidence=json.loads(external.read_text(encoding='utf-8')) if external.exists() else {}
+    save_json(res/'final_model_metrics.json',{'selected_model':model,'configuration':config,'selection':selection,'validation':selected,'submission':summary,'submission_sha256':digest,'kaggle_score':evidence.get('kaggle',{}).get('private_score'),'kaggle':evidence.get('kaggle',{}),'note':'Offline validation and the returned Kaggle private score are distinct measurements.'})
     save_json(res/'environment.json',{'python':platform.python_version(),'platform':platform.platform(),'logical_cpus':psutil.cpu_count(),'ram_gib':psutil.virtual_memory().total/2**30,'free_disk_gib':shutil.disk_usage(ROOT).free/2**30})
     # Figures use only actual observations.
     import matplotlib;matplotlib.use('Agg')

@@ -180,8 +180,10 @@ def main():
     add('The session-export directory preserves a byte-for-byte copy of the actual Codex JSONL record, with SHA-256 manifest. Because this chat is still running when it copies the file, the snapshot may omit the last tool calls and final response. Refresh after the chat finishes using scripts/refresh_session_export.ps1. The file is not translated, sanitized or reconstructed. The instructor has not confirmed whether native Codex JSONL satisfies any OpenCode-specific export requirement. The unrelated WARNING_BANNER session.json is not presented as evidence.')
     section('14. Kaggle submission evidence')
     if kg.get('private_score') is not None:
-        add(f'Account: Sasmas314. Student: Александр Иванов. Private score: <b>{kg["private_score"]}</b>. Public score: {kg.get("public_score","not recorded")}. Submission ID: {kg.get("submission_id","see screenshot")}. File: submission.csv. This is the designated final submission, not a claim about leaderboard rank.')
+        add(f'Account: Sasmas314. Student: Александр Иванов. Private score: <b>{kg["private_score"]}</b>. Public score: {kg.get("public_score","not recorded")}. Submission ID: {kg.get("submission_id") or "not exposed in the Kaggle interface"}. File: submission.csv. This is the designated final submission, not a claim about leaderboard rank.')
         add(html.escape(kg.get('description','')))
+        add(html.escape(kg.get('verification','')))
+        add(html.escape(kg.get('selection_status','')))
         screenshot=R/'figures/kaggle_private_score.jpg'
         if screenshot.exists(): fig('kaggle_private_score.jpg','Genuine authenticated Kaggle submissions page with returned private score')
         else: add('MISSING EVIDENCE: returned score has no saved screenshot. Do not treat this section as complete.')

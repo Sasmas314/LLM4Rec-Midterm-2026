@@ -96,3 +96,7 @@ gh repo create Sasmas314/LLM4Rec-Midterm-2026 --public --source . --remote origi
 ```
 
 Do not commit raw datasets, session JSONL, credentials, private tokens or `.env` files.
+
+## Verified Kaggle evidence
+
+Private score **0.37484**, public score **0.38323**. The already scored file was downloaded from Kaggle and its SHA-256 exactly matches the final CSV (`c75a1dec6c10d211ebcaeb33b11337112afce9864c0550715485a486bfa2d2fe`). No additional attempt was needed. The saved description identifies Александр Иванов, Sasmas314 and FINAL. Kaggle disables the final-selection checkbox for this late submission; course designation is in the description. The actual screenshot is `reports/figures/kaggle_private_score.jpg`.
